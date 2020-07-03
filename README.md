@@ -29,3 +29,5 @@ Verify the deployment by navigating to your server address in your preferred bro
 ```sh
 127.0.0.1:3000 or localhost:3000
 ```
+### Preview
+![img](https://github.com/jumadilakbar/express-js-namecard/blob/master/public/ss%20project/Capture.PNG?raw=true)
