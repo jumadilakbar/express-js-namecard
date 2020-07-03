@@ -13,7 +13,7 @@ All fitur in this simple website.
 
 ### Installation
 
-Dillinger requires [Node.js](https://nodejs.org/) to run.
+Name Card Project requires [Node.js](https://nodejs.org/) to run.
 
 Install the dependencies and devDependencies and start the server.
 
